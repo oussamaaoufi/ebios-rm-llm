@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "EBIOS-RM-LLM: A Fine-Tuned Large Language Model for Automated Cybersecurity Risk Scenario Generation within the EBIOS Risk Manager Framework"
+authors:
+  - family-names: "Aoufi"
+    given-names: "Oussama"
+    affiliation: "University of Algiers 1 Benyoucef Benkhedda"
+  - family-names: "Rahmani"
+    given-names: "Amine"
+    affiliation: "University of Algiers 1 Benyoucef Benkhedda"
+date-released: 2026-01-01
+license: MIT
+keywords:
+  - EBIOS Risk Manager
+  - large language models
+  - fine-tuning
+  - MITRE ATT&CK
+  - cybersecurity risk assessment
+  - LoRA

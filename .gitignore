@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+*.key
+
+# Private evaluation material
+**/expert_package_key.json
+evaluation_results/expert_docs/
+evaluation_results/expert_sheets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+phd_env/
+
+# Large / regenerable artefacts (optional — uncomment to exclude)
+# raw_data/
+# final_dataset/
+
+# OS
+.DS_Store
+Thumbs.db
